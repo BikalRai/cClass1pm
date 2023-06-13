@@ -9,6 +9,7 @@ int main () {
 		a++;
 	} while(a < 10);
 	
+	printf("out of loop");
 	
 	
 	return 0;
