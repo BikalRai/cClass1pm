@@ -15,7 +15,7 @@ int main () {
 			getch();
 			printf("Exiting...\n");
 			getch();
-			i = 0;
+			break;
 		}
 		
 		sum += num;

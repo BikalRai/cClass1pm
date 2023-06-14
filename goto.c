@@ -8,8 +8,8 @@ int main() {
 	scanf("%d", &num);
 	
 	loop:
-//		printf("%d x %d = %d\n", num, i, num * i);
-		printf("Value of i = %d\n", i);
+		printf("%d x %d = %d\n", num, i, num * i);
+//		printf("Value of i = %d\n", i);
 		i++;
 		
 	if(i <= 10) {
